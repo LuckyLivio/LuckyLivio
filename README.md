@@ -6,7 +6,7 @@
 
 ## 代表项目
 
-| 项目 | 我做的事与可查看的实现 |
+| 项目 | 可查看的实现 |
 | --- | --- |
 | [Study-Together](https://github.com/LuckyLivio/Study-Together) | Next.js + Prisma 学习协作应用；注册登录、配对、任务和课程表、资料管理等功能。部分统计仍使用模拟数据，见项目 README。 |
 | [EssayGrading](https://github.com/LuckyLivio/EssayGrading) | Flutter 申论练习应用；连接中文 OCR、可配置的 AI 批改接口和本地历史记录。需要自备 API 凭据。 |
